@@ -10,7 +10,7 @@ This is a free tutorial series provided by Yeahlowflicker.
 
 <br>
 
-You will find the source code of each episode in this repository. There is also a unitypackage file which you can directly import the final version of the first person controller into your own project.
+You will find the source code of each episode in this repository. There is also a unitypackage file which you can directly import the final version of the first person controller into your own project. 3rd-party audio files, however, are not provided due to copyright considerations.
 
 <br>
 
