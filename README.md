@@ -2,6 +2,8 @@
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLS7jk2aVN8G6s4KM7TV0EJz8_04KquJbX)
 
+![](https://github.com/YeahlowflickerProduction/Unity-First-Person-Controller/blob/master/series%20thumbnail.png?raw=true)
+
 <br>
 
 This is a free tutorial series provided by Yeahlowflicker.
